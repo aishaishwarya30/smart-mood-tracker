@@ -7,6 +7,12 @@ This is a simple mood tracker that allows you to track your mood daily with opti
 - Track your mood (Happy, Sad, Angry, Neutral).
 - Add an optional note about your day.
 - View mood trends with a bar chart.
+  
+## ✨ Future Plans
+- Add calendar-based mood tracking
+- Add mood-based suggestions using AI
+- Add export-to-CSV feature
+
 
 ## Tech Used
 
